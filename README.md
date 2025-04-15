@@ -3,11 +3,14 @@
 - Backend Repository
 
 ## Table of Contents
+- [Description](#description)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Description](#description)
 - [Installation](#installation)
   - [Frontend/Backend Setup](#frontend-setup)
+
+## Description
+The **Job Portal App** is a MERN stack project that enables job seekers to find and apply to jobs, and recruiters to post job listings. It ensures secure access, clean UI, and a seamless job application process.
 
 ## Tech Stack
 - **Frontend**: React, JavaScript, Tailwind CSS, CSS  
@@ -20,9 +23,6 @@
 - Post and Apply to Jobs  
 - Resume Upload via Cloudinary  
 - Role-based Access (Job Seeker & Recruiter)  
-
-## Description
-The **Job Portal App** is a MERN stack project that enables job seekers to find and apply to jobs, and recruiters to post job listings. It ensures secure access, clean UI, and a seamless job application process.
 
 ## Installation
 ## Frontend/Backend Setup
