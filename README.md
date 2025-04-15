@@ -27,8 +27,8 @@ The **Job Portal App** is a MERN stack project that enables job seekers to find 
 
 ## Installation
 
-## Frontend Setup
+## Frontend/Backend Setup
 ### Install dependecies
--npm install
+- npm install
 ### start frontend server
--npm run dev
+- npm run dev
