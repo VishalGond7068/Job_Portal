@@ -1,6 +1,6 @@
 # Job Portal App
-- [Frontend Repository](#)
-- [Backend Repository](#)
+- Frontend Repository(#)
+- Backend Repository(#)
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
