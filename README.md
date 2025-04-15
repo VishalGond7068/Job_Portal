@@ -1,6 +1,6 @@
 # Job Portal App
-- Frontend Repository(#)
-- Backend Repository(#)
+- Frontend Repository
+- Backend Repository
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
@@ -27,8 +27,8 @@ The **Job Portal App** is a MERN stack project that enables job seekers to find 
 
 ## Installation
 
-### Frontend Setup
-i dependecies
-npm install
-start frotend server
-npm run dev
+## Frontend Setup
+### Install dependecies
+-npm install
+### start frontend server
+-npm run dev
